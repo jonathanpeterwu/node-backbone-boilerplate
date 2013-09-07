@@ -2,12 +2,11 @@ var _               = require('underscore');
 var config          = require('config');
 
 ////
-//  EXAMPLE PAGE
+// INDEX
 ////
 
-exports.showExample = [
+exports.render = [
   function(req, res) {
     res.render('app', { });      
   }
 ];
-
