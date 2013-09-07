@@ -1,4 +1,3 @@
-node-backbone-boilerplate
+Boilerplate web app
 =========================
-
-Boilerplate web app using Node, Backbone, Handlebars and Less
+#### Uses Node, Backbone, Mongoose, Less, and Handlebars
